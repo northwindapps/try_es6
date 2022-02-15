@@ -1,4 +1,5 @@
 //index.js
+//--experimental-modules
 
 import express from 'express';
 
